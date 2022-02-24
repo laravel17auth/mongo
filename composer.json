@@ -1,0 +1,21 @@
+{
+    "name": "administrator/mongo",
+    "type": "library",
+    "authors": [
+        {
+            "name": "ali rahmanian",
+            "email": "alirahmanian1@hmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Packages\\Mongo\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support": "^5.4|^6.9|^7.0|^8.0|^9.0",
+        "phpseclib/phpseclib": "^3.0",
+        "xaamin/jwt": "^1.0",
+        "romanzipp/laravel-seo": "^2.4"
+    }
+}
