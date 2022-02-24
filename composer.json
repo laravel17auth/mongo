@@ -1,5 +1,5 @@
 {
-    "name": "laravel17auth",
+    "name": "laravel17auth/mongo",
     "type": "library",
     "authors": [
         {
